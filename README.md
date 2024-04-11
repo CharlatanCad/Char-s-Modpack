@@ -8,9 +8,9 @@ The files also work server side. I will be making a separate installer/project f
 (Projects can take a while, Thank you for your patience and understanding.)
 The mod pack has the fallowing mods.
 
-appleskin-fabric-mc1.20.2-2.5.1
-bobby-5.0.2
-fabric-api-0.91.1+1.20.2
-lithium-fabric-mc1.20.2-0.12.0
-status-1.20.2-1.0.4
+appleskin-fabric-mc1.20.2-2.5.1|
+bobby-5.0.2|
+fabric-api-0.91.1+1.20.2|
+lithium-fabric-mc1.20.2-0.12.0|
+status-1.20.2-1.0.4|
 As well as the uninsller file.
